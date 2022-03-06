@@ -1,5 +1,7 @@
 # Quiz-game-using-java
 This is a simple Quiz Game build using AWT, and SWING.
+<br>
+<br>
 This Game consist of 4 window.
 <br>
 <br>
