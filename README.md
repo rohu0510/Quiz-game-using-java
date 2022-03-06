@@ -38,7 +38,7 @@ Step 4: Extract the downloaded ZIP file.
 <br>
 Step 5: Paste the .java files in src folder of your projects in NETBEANS IDE.
 <br>
-Step 6: Run file name (quizgamebyatr.java).
+Step 6: Run file name (QuizGamebyATR.java).
 <br>
 <br>
 Play the Quiz and Enjoy.......
